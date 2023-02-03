@@ -1,2 +1,3 @@
-# holiday-chatbot
-Virtual assistant in Google Dialogflow for the loveholidays website.
+# Love Holidays Chatbot
+
+Virtual assistant in Google Dialogflow for the loveholidays website
